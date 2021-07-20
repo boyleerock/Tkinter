@@ -2,7 +2,7 @@
 
 ### A simple user interface using tkinter...
 
-When you enter the year (for example 2020 here)in this user interface,
+When you enter the year (for example 2022 here)in this user interface,
 
 ![1626780098469](https://user-images.githubusercontent.com/61671531/126316129-dbd78afd-d90a-40c1-8562-7d3df95d2840.jpg)
 
